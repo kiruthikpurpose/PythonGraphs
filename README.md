@@ -1,4 +1,4 @@
-# Data Plotting with Matplotlib
+# Python Graphs
 
 This repository contains three Python scripts for generating visualizations using `matplotlib` and `numpy`. Each script takes input for either 1D, 2D, or 3D data and visualizes them in interactive plots. The scripts are named based on the type of data they handle: `OneCoordinateGraph.py`, `TwoCoordinatesGraph.py`, and `ThreeCoordinatesGraph.py`.
 
